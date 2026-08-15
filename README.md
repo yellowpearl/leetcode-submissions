@@ -22,10 +22,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/yellowpearl/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
