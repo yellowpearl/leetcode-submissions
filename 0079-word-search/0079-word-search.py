@@ -30,15 +30,17 @@ class Solution:
                 ):
                     continue
                 visit.add((nr, nc))
-                ans.append(bt(start+1, nr, nc))
+                if bt(start+1, nr, nc):
+                    return True
                 visit.remove((nr, nc))
-            return any(ans)
+            return False
         
         ans = []
         for r in range(len(board)):
             for c in range(len(board[0])):
                 if board[r][c] == word[0]:
                     visit.add((r,c))
-                    ans.append(bt(1, r, c))
+                    if bt(1, r, c):
+                        return True
                     visit.remove((r,c))
-        return any(ans)
+        return False
