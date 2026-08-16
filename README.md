@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/yellowpearl/leetcode-submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yellowpearl/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yellowpearl/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0040-combination-sum-ii](https://github.com/yellowpearl/leetcode-submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yellowpearl/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
