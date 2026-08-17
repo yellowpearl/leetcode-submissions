@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0337-house-robber-iii](https://github.com/yellowpearl/leetcode-submissions/tree/main/0337-house-robber-iii/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
