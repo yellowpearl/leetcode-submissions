@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 ## String Matching
@@ -109,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 <!---LeetCode Topics End-->
