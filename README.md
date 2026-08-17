@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/yellowpearl/leetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
