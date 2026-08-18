@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/yellowpearl/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yellowpearl/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yellowpearl/leetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yellowpearl/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yellowpearl/leetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0337-house-robber-iii](https://github.com/yellowpearl/leetcode-submissions/tree/main/0337-house-robber-iii/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Bracket Sequences
@@ -151,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yellowpearl/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
