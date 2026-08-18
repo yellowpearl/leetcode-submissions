@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/yellowpearl/leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/yellowpearl/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/yellowpearl/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
