@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/yellowpearl/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/yellowpearl/leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/yellowpearl/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yellowpearl/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -183,4 +184,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
