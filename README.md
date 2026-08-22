@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/yellowpearl/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/yellowpearl/leetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0392-is-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/yellowpearl/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0337-house-robber-iii](https://github.com/yellowpearl/leetcode-submissions/tree/main/0337-house-robber-iii/) | Medium |
+| [0392-is-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/yellowpearl/leetcode-submissions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
