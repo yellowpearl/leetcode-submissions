@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yellowpearl/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/yellowpearl/leetcode-submissions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yellowpearl/leetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Binary Search
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yellowpearl/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yellowpearl/leetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yellowpearl/leetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yellowpearl/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/yellowpearl/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -188,8 +191,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/yellowpearl/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yellowpearl/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
